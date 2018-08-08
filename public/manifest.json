@@ -1,0 +1,15 @@
+{
+  "short_name": "Feed Plus",
+  "name": "Feed Plus",
+  "icons": [
+    {
+      "src": "figure1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#222",
+  "background_color": "#222"
+}

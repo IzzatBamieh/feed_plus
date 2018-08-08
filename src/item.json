@@ -1,0 +1,190 @@
+export default function() {
+		{
+      "_id": "5b634c8183985711001d4d02",
+      "feedItemType": "categorized",
+      "actor": {
+        "_id": "54dbce4a9a4d7ec02f299e71",
+        "objectType": "user",
+        "verified": true
+      },
+      "objectType": "image",
+      "object": {
+        "_id": "5b634c8183985711001d4d02",
+        "caption": "80+ male. c/o nausea. fatigue. pmh: heart failure, ACS, Myelodysplastic syndrome--> pancytopenia.\nSTEMI or NSTEMI?",
+        "detectedLanguage": "en",
+        "url": "/image/display?urlToken=5b634bbd2f028b1100e411f2",
+        "author": {
+          "_id": "54dbce4a9a4d7ec02f299e71",
+          "username": "jimbo19l",
+          "verified": true,
+          "following": false,
+          "country": "NL",
+          "specialtyName": "Geriatrics Resident",
+          "specialtyCategory": "Medical Resident",
+          "profileFollowersCount": 101,
+          "profileUploadsCount": 14,
+          "avatar": null
+        },
+        "username": "jimbo19l",
+        "specialty": "Geriatrics",
+        "specialtyCategory": "Medical Resident",
+        "authorVerified": true,
+        "metadata": "{\"arrows\":[]}",
+        "isGrandRound": false,
+        "closingText": "",
+        "width": 1465,
+        "height": 1080,
+        "__v": 2,
+        "fanoutType": "everyone",
+        "approvalStatus": "PUBLISHED",
+        "publicSearch": null,
+        "publicSearchStatus": "private",
+        "hasQuiz": false,
+        "isPagingCase": false,
+        "answer": null,
+        "pagingRequests": [],
+        "unfollowers": 1,
+        "followers": 8,
+        "imageSet": [],
+        "tineyeResults": [
+          {
+            "_id": "5b634c8566775f100015566b",
+            "resultsCount": 0,
+            "results": [
+              {
+                "matches": []
+              }
+            ],
+            "created": "2018-08-02T18:25:09.321Z"
+          }
+        ],
+        "sponsored": false,
+        "contentType": 0,
+        "imageType": 0,
+        "flags": [],
+        "voteCount": 0,
+        "categoryVoteCollections": [
+          {
+            "_id": "5b634c8183985711001d4d04",
+            "category": {
+              "_id": "528523585e03d8c11a000031",
+              "name": "Cardiology",
+              "subType": "none",
+              "type": "Specialties",
+              "sortOrder": 6,
+              "coverImage": "52a4277002ab809f0c00000b",
+              "urlToken": "cardiology",
+              "specialty": "cardiology",
+              "specialtyCategory": null
+            },
+            "categoryName": "Cardiology",
+            "score": 6,
+            "votes": [
+              {
+                "_id": "5b634c8183985711001d4d03",
+                "author": "54dbce4a9a4d7ec02f299e71",
+                "type": 2,
+                "category": "528523585e03d8c11a000031",
+                "categoryName": "Cardiology",
+                "weight": 6,
+                "created": "2018-08-02T19:20:04.898Z"
+              }
+            ],
+            "created": "2018-08-02T19:20:04.898Z"
+          },
+          {
+            "_id": "5b634c8183985711001d4d06",
+            "category": {
+              "_id": "528523585e03d8c11a000032",
+              "name": "Critical Care",
+              "subType": "none",
+              "type": "Specialties",
+              "sortOrder": 6,
+              "coverImage": "52925277ed1a63e47100021b",
+              "urlToken": "critical-care",
+              "specialty": "criticalCare",
+              "specialtyCategory": null
+            },
+            "categoryName": "Critical Care",
+            "score": 6,
+            "votes": [
+              {
+                "_id": "5b634c8183985711001d4d05",
+                "author": "54dbce4a9a4d7ec02f299e71",
+                "type": 2,
+                "category": "528523585e03d8c11a000032",
+                "categoryName": "Critical Care",
+                "weight": 6,
+                "created": "2018-08-02T19:20:04.898Z"
+              }
+            ],
+            "created": "2018-08-02T19:20:04.898Z"
+          },
+          {
+            "_id": "5b634c8183985711001d4d08",
+            "category": {
+              "_id": "528523585e03d8c11a000034",
+              "name": "Emergency Medicine",
+              "subType": "none",
+              "type": "Specialties",
+              "sortOrder": 6,
+              "coverImage": "52a52e3a241e01b00800019f",
+              "urlToken": "emergency-medicine",
+              "specialty": "emergencyMedicine",
+              "specialtyCategory": null
+            },
+            "categoryName": "Emergency Medicine",
+            "score": 6,
+            "votes": [
+              {
+                "_id": "5b634c8183985711001d4d07",
+                "author": "54dbce4a9a4d7ec02f299e71",
+                "type": 2,
+                "category": "528523585e03d8c11a000034",
+                "categoryName": "Emergency Medicine",
+                "weight": 6,
+                "created": "2018-08-02T19:20:04.898Z"
+              }
+            ],
+            "created": "2018-08-02T19:20:04.898Z"
+          }
+        ],
+        "tags": [],
+        "authorIDs": [
+          "54dbce4a9a4d7ec02f299e71"
+        ],
+        "isSaved": false,
+        "hasVoted": false,
+        "urlToken": "5b634bbd2f028b1100e411f2",
+        "imageID": "5b634c8183985711001d4d02",
+        "privateImage": false,
+        "flaggedImage": false,
+        "voters": [],
+        "following": false,
+        "categoryVoteWeights": {
+          "upvoteWeight": 10,
+          "downvoteWeight": -10
+        },
+        "userIDToFollow": "54dbce4a9a4d7ec02f299e71",
+        "verified": true,
+        "userCountry": "NL",
+        "commentCount": 9,
+        "hasCommented": false,
+        "displayName": null,
+        "objectType": "image"
+      },
+      "displayName": {
+        "format": {
+          "en": "In [[category]]"
+        },
+        "params": {
+          "category": {
+            "value": "Cardiology",
+            "type": "category",
+            "_id": "528523585e03d8c11a000031"
+          }
+        }
+      },
+      "displayNameIsVisible": false
+		},
+};
